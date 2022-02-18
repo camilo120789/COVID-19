@@ -1,8 +1,12 @@
 Proyecto: COVID-19
+
 Módulo 4
+
 Desarrollo de aplicaciones web Frontend
 Unidad: 1. JSON Web Token
+
 Contenidos Desarrollados:
+
 Bootstrap
 
 jQuery
