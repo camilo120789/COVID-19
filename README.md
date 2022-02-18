@@ -18,6 +18,7 @@ Consumir APIs
 JSON Web Token
 
 Programa de Desarrollo de Aplicaciones FullStack JAVASCRIPT
+
 Módulo 1: Fundamentos Desarrollo Web
 
 Módulo 2: Programación básica en JavaScript
